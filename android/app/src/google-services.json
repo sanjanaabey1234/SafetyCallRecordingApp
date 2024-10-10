@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344182126051",
+    "project_id": "safetycallrecordingapp",
+    "storage_bucket": "safetycallrecordingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344182126051:android:f8346e3f69010180a8dcd6",
+        "android_client_info": {
+          "package_name": "com.safetycallrecordingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt0YB7jjS2L4vjjVjl-IEBB0WCdI2Pljc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
